@@ -4,6 +4,7 @@
       "target": "es5",
       "noImplicitAny": false,
       "outDir": "built",
+      "allowSyntheticDefaultImports":true,
       "module": "commonjs",
     },
     "include": [
